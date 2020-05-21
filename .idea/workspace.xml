@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DataStructuresAndAlgorithms4th" targetName="DataStructuresAndAlgorithms4th" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_SH=&quot;CMAKE_SH-NOTFOUND&quot;" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="514c1164-7ca2-474c-b859-d02f1a1869e2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/ToolClass.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#225#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="921">
+              <caret line="576" column="48" selection-start-line="576" selection-start-column="48" selection-end-line="576" selection-end-column="48" />
+              <folding>
+                <element signature="e#149#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+              <folding>
+                <element signature="e#53#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/3th_LinkedList/intSLList/intSLList.h" />
+        <option value="$PROJECT_DIR$/3th_LinkedList/intSLList/intSLList.cpp" />
+        <option value="$PROJECT_DIR$/3th_LinkedList/genDLList/genDLLIst.h" />
+        <option value="$PROJECT_DIR$/3th_LinkedList/genSkipList/genSkipList.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/genStack/genStack.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/genListStack/genListStack.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/genArrayQueue/genArrayQueue.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/genQueue/genQueue.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/use_priority_queue/personal.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/use_priority_queue/person.h" />
+        <option value="$PROJECT_DIR$/4thStackAndQueue/use_priority_queue/person.cpp" />
+        <option value="$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_2.cpp" />
+        <option value="$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_1.cpp" />
+        <option value="$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_3.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/personal.h" />
+        <option value="$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_4.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/person.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/person.h" />
+        <option value="$PROJECT_DIR$/SourceCode/5th_Recursive/vonKoch/vonKoch.h" />
+        <option value="$PROJECT_DIR$/SourceCode/5th_Recursive/Fibonacci/Fibonacci.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp" />
+        <option value="$PROJECT_DIR$/TestCode/TravelBinaryTree/PreOrder/preOrder.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/6th_BinaryTree/genBST.h" />
+        <option value="$PROJECT_DIR$/SourceCode/6th_BinaryTree/ThreadTree/genThread.h" />
+        <option value="$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h" />
+        <option value="$PROJECT_DIR$/TestCode/TravelBinaryTree/inOrder/inOrder.cpp" />
+        <option value="$PROJECT_DIR$/TestCode/TravelBinaryTree/PostOrder/postOrder.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/tool.h" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/SelectSort/SelectSort.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/ToolClass.h" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/ShellSort/ShellSort.cpp" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="443" />
+    <option name="y" value="135" />
+    <option name="width" value="1191" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataStructuresAndAlgorithms4th" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAndAlgorithms4th" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\C++Code\DataStructuresAndAlgorithms4th\SourceCode\6th_BinaryTree\BST" />
+      <recent name="F:\C++Code\DataStructuresAndAlgorithms4th\TestCode\TravelBinaryTree\inOrder" />
+      <recent name="F:\C++Code\DataStructuresAndAlgorithms4th\TestCode\TravelBinaryTree" />
+      <recent name="F:\C++Code\DataStructuresAndAlgorithms4th\SourceCode" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataStructuresAndAlgorithms4th" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DataStructuresAndAlgorithms4th" TARGET_NAME="DataStructuresAndAlgorithms4th" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DataStructuresAndAlgorithms4th" RUN_TARGET_NAME="DataStructuresAndAlgorithms4th">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514c1164-7ca2-474c-b859-d02f1a1869e2" name="Default Changelist" comment="" />
+      <created>1577956223556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577956223556</updated>
+      <workItem from="1577956224885" duration="739000" />
+      <workItem from="1577966825646" duration="667000" />
+      <workItem from="1577968004300" duration="90000" />
+      <workItem from="1577971662762" duration="41412000" />
+      <workItem from="1578281998596" duration="10810000" />
+      <workItem from="1578815341046" duration="8566000" />
+      <workItem from="1579073953252" duration="18380000" />
+      <workItem from="1590030722127" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81312000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.21174653" visible="true" weight="0.18965517" />
+      <window_info id="Structure" order="1" sideWeight="0.7882535" side_tool="true" weight="0.23125494" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3233533" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32814372" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.348503" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.21174653" weight="0.27545553" />
+      <window_info id="Structure" order="1" sideWeight="0.7882535" side_tool="true" weight="0.23125494" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32440946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32900944" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.45826772" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/3th_LinkedList/genDLList/genDLLIst.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="137" column="33" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
+          <folding>
+            <element signature="e#163#172#0" expanded="true" />
+            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#1169#1178#0" expanded="true" />
+            <element signature="e#1533#1542#0" expanded="true" />
+            <element signature="e#1762#1771#0" expanded="true" />
+            <element signature="e#2202#2211#0" expanded="true" />
+            <element signature="e#2469#2478#0" expanded="true" />
+            <element signature="e#2709#2718#0" expanded="true" />
+            <element signature="e#2788#2797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/3th_LinkedList/intSLList/intSLList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="124" column="11" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
+          <folding>
+            <element signature="e#66#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/3th_LinkedList/intSLList/intSLList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/3th_LinkedList/genSkipList/genSkipList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="135" column="65" selection-start-line="135" selection-start-column="65" selection-end-line="135" selection-end-column="65" />
+          <folding>
+            <element signature="e#205#214#0" expanded="true" />
+            <element signature="e#349#358#0" expanded="true" />
+            <element signature="e#690#699#0" expanded="true" />
+            <element signature="e#802#811#0" expanded="true" />
+            <element signature="e#883#892#0" expanded="true" />
+            <element signature="e#1141#1150#0" expanded="true" />
+            <element signature="e#1373#1382#0" expanded="true" />
+            <element signature="e#2387#2396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_list.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="1123" column="9" lean-forward="true" selection-start-line="1123" selection-start-column="9" selection-end-line="1123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/4th_StackAndQueue/genStack/genStack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <folding>
+            <element signature="e#179#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/4th_StackAndQueue/genListStack/genListStack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="e#186#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/vector.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="421" selection-start-line="421" selection-end-line="421" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/alloc_traits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="780" selection-start-line="780" selection-end-line="780" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="567" selection-start-line="567" selection-end-line="567" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#52#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/4th_StackAndQueue/genArrayQueue/genArrayQueue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/4th_StackAndQueue/genQueue/genQueue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#200#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#52#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#52#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/priority_queue_test/priority_queue_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#52#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/person.h" />
+    <entry file="file://$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/personal.h" />
+    <entry file="file://$PROJECT_DIR$/SourceCode/4thStackAndQueue/use_priority_queue/person.cpp" />
+    <entry file="file://$PROJECT_DIR$/SourceCode/5th_Recursive/vonKoch/vonKoch.h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/5th_Recursive/Fibonacci/Fibonacci.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/TravelBinaryTree/PreOrder/preOrder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#52#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/TravelBinaryTree/inOrder/inOrder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding>
+            <element signature="e#54#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCode/TravelBinaryTree/PostOrder/postOrder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+          <folding>
+            <element signature="e#52#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#53#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/SelectSort/SelectSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="e#173#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="933" selection-start-line="933" selection-end-line="933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/move.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#171#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/ShellSort/ShellSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="e#293#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/ToolClass.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#225#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <folding>
+            <element signature="e#53#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/ThreadTree/genThread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2082">
+          <caret line="117" column="46" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="46" />
+          <folding>
+            <element signature="e#2045#2054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="576" column="48" selection-start-line="576" selection-start-column="48" selection-end-line="576" selection-end-column="48" />
+          <folding>
+            <element signature="e#149#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/QuickSort/QuickSort.cpp
+iostream
+-
+vector
+-
+../ToolClass.h
+F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/ToolClass.h
+
+F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/ToolClass.h
+vector
+-
+iostream
+-
+

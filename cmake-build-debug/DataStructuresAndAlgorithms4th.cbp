@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructuresAndAlgorithms4th"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructuresAndAlgorithms4th">
+				<Option output="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/DataStructuresAndAlgorithms4th.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresAndAlgorithms4th"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DataStructuresAndAlgorithms4th/fast">
+				<Option output="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/DataStructuresAndAlgorithms4th.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructuresAndAlgorithms4th/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/DataStructuresAndAlgorithms4th/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/3th_LinkedList/genDLList/genDLLIst.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/3th_LinkedList/genSkipList/genSkipList.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/3th_LinkedList/intSLList/intSLList.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/3th_LinkedList/intSLList/intSLList.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/4th_StackAndQueue/genArrayQueue/genArrayQueue.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/4th_StackAndQueue/genListStack/genListStack.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/4th_StackAndQueue/genQueue/genQueue.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/4th_StackAndQueue/genStack/genStack.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/5th_Recursive/Fibonacci/Fibonacci.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/6th_BinaryTree/BST/genBST.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/6th_BinaryTree/ThreadTree/genThread.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/InsertSort/InsertSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/SelectSort/SelectSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/ShellSort/ShellSort.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/SourceCode/9th_Sort/ToolClass.h">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/TravelBinaryTree/PostOrder/postOrder.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/TravelBinaryTree/PreOrder/preOrder.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/TravelBinaryTree/inOrder/inOrder.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/priority_queue_test/priority_queue_1.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/priority_queue_test/priority_queue_2.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/priority_queue_test/priority_queue_3.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/TestCode/priority_queue_test/priority_queue_4.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/main.cpp">
+			<Option target="DataStructuresAndAlgorithms4th"/>
+		</Unit>
+		<Unit filename="F:/C++Code/DataStructuresAndAlgorithms4th/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
