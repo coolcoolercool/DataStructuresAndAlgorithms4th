@@ -11,7 +11,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514c1164-7ca2-474c-b859-d02f1a1869e2" name="Default Changelist" comment="" />
+    <list default="true" id="514c1164-7ca2-474c-b859-d02f1a1869e2" name="Default Changelist" comment="数据结构与算法第四版">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,48 +43,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="735">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="921">
-              <caret line="576" column="48" selection-start-line="576" selection-start-column="48" selection-end-line="576" selection-end-column="48" />
+            <state relative-caret-position="267">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
-                <element signature="e#149#165#0" expanded="true" />
+                <element signature="e#305#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+            <state relative-caret-position="666">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#53#72#0" expanded="true" />
+                <element signature="e#53#70#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,15 +112,15 @@
         <option value="$PROJECT_DIR$/TestCode/TravelBinaryTree/inOrder/inOrder.cpp" />
         <option value="$PROJECT_DIR$/TestCode/TravelBinaryTree/PostOrder/postOrder.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/tool.h" />
-        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/SelectSort/SelectSort.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/ToolClass.h" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/ShellSort/ShellSort.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp" />
       </list>
     </option>
   </component>
@@ -132,12 +131,12 @@
     <option name="width" value="1191" />
     <option name="height" value="826" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,10 +149,30 @@
               <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
               <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructuresAndAlgorithms4th" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="5th_Recursive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAndAlgorithms4th" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="5th_Recursive" type="462c0819:PsiDirectoryNode" />
+              <item name="EightQueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAndAlgorithms4th" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAndAlgorithms4th" type="462c0819:PsiDirectoryNode" />
+              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="9th_Sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,17 +271,26 @@
       <workItem from="1578281998596" duration="10810000" />
       <workItem from="1578815341046" duration="8566000" />
       <workItem from="1579073953252" duration="18380000" />
-      <workItem from="1590030722127" duration="648000" />
+      <workItem from="1590030722127" duration="1719000" />
+      <workItem from="1590239422582" duration="257000" />
     </task>
+    <task id="LOCAL-00001" summary="数据结构与算法第四版">
+      <created>1590031558540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590031558540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81312000" />
+    <option name="totallyTimeSpent" value="82640000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.21174653" visible="true" weight="0.18965517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.21174653" visible="true" weight="0.19273399" />
       <window_info id="Structure" order="1" sideWeight="0.7882535" side_tool="true" weight="0.23125494" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,6 +336,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据结构与算法第四版" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据结构与算法第四版" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
@@ -499,13 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCode/TravelBinaryTree/PreOrder/preOrder.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
@@ -532,16 +557,6 @@
           <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
           <folding>
             <element signature="e#52#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#53#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -597,6 +612,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+          <folding>
+            <element signature="e#53#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="576" column="48" selection-start-line="576" selection-start-column="48" selection-end-line="576" selection-end-column="48" />
+          <folding>
+            <element signature="e#149#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/ThreadTree/genThread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="117" column="46" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="46" />
+          <folding>
+            <element signature="e#2045#2054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/ToolClass.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -609,44 +661,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/HeapSort/HeapSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
-          <folding>
-            <element signature="e#53#72#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="735">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/QuickSort/QuickSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
+        <state relative-caret-position="267">
           <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/ThreadTree/genThread.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2082">
-          <caret line="117" column="46" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="46" />
           <folding>
-            <element signature="e#2045#2054#0" expanded="true" />
+            <element signature="e#305#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/6th_BinaryTree/BST/genBST.h">
+    <entry file="file://$PROJECT_DIR$/SourceCode/9th_Sort/InsertSort/InsertSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="921">
-          <caret line="576" column="48" selection-start-line="576" selection-start-column="48" selection-end-line="576" selection-end-column="48" />
+        <state relative-caret-position="666">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <element signature="e#149#165#0" expanded="true" />
+            <element signature="e#53#70#0" expanded="true" />
           </folding>
         </state>
       </provider>

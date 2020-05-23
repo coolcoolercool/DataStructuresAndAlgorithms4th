@@ -39,9 +39,6 @@ void insertSort(vector<int>& vec) {
     }
 }
 
-
-
-
 int main5mn3() {
     vector<int> vec = {6, 9, 2, 6, 5, 0, 2};
     printArr(vec);

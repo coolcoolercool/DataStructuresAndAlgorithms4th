@@ -17,4 +17,20 @@ add_executable(DataStructuresAndAlgorithms4th main.cpp
         TestCode/priority_queue_test/priority_queue_2.cpp
         TestCode/priority_queue_test/priority_queue_3.cpp
         TestCode/priority_queue_test/priority_queue_4.cpp
-        SourceCode/5th_Recursive/Fibonacci/Fibonacci.cpp SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp SourceCode/6th_BinaryTree/BST/genBST.h TestCode/TravelBinaryTree/PreOrder/preOrder.cpp TestCode/TravelBinaryTree/inOrder/inOrder.cpp TestCode/TravelBinaryTree/PostOrder/postOrder.cpp SourceCode/6th_BinaryTree/ThreadTree/genThread.h SourceCode/9th_Sort/InsertSort/InsertSort.cpp SourceCode/9th_Sort/SelectSort/SelectSort.cpp SourceCode/9th_Sort/ToolClass.h SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp SourceCode/9th_Sort/ShellSort/ShellSort.cpp SourceCode/9th_Sort/HeapSort/HeapSort.cpp SourceCode/9th_Sort/QuickSort/QuickSort.cpp)
+        SourceCode/5th_Recursive/Fibonacci/Fibonacci.cpp
+        SourceCode/5th_Recursive/EightQueue/ChessBoard.cpp
+        SourceCode/6th_BinaryTree/BST/genBST.h
+        SourceCode/6th_BinaryTree/ThreadTree/genThread.h
+
+        TestCode/TravelBinaryTree/PreOrder/preOrder.cpp
+        TestCode/TravelBinaryTree/inOrder/inOrder.cpp
+        TestCode/TravelBinaryTree/PostOrder/postOrder.cpp
+
+        SourceCode/9th_Sort/InsertSort/InsertSort.cpp
+        SourceCode/9th_Sort/SelectSort/SelectSort.cpp
+        SourceCode/9th_Sort/ToolClass.h
+        SourceCode/9th_Sort/BubbleSort/BubbleSort.cpp
+        SourceCode/9th_Sort/BubbleSort/CombSort/CombSort.cpp
+        SourceCode/9th_Sort/ShellSort/ShellSort.cpp
+        SourceCode/9th_Sort/HeapSort/HeapSort.cpp
+        SourceCode/9th_Sort/QuickSort/QuickSort.cpp)
